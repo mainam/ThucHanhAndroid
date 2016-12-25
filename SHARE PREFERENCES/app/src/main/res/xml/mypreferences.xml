@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<PreferenceCategory android:title="Nhom 1">
+    <CheckBoxPreference
+        android:title="My Checkbox"
+        android:defaultValue="false"
+        android:summary="Day la check box"
+        android:key="chbValue"
+        ></CheckBoxPreference>
+</PreferenceCategory>
+</PreferenceScreen>
